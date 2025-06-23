@@ -1,14 +1,11 @@
 NAS
-
 小主机
 
 AIO
 +all in one
 
 docker
-
 虚拟机
-
 软路由
 
 小米
@@ -19,7 +16,6 @@ docker
 微软
 Microsoft
 
-黄仁勋
 英伟达
 NVIDIA
 
@@ -44,11 +40,3 @@ ios
 ai
 !gai
 人工智能
-
-汽车
-自动驾驶
-l3
-
-科技
-
-核能
