@@ -2206,7 +2206,6 @@ class NewsAnalyzer:
             "weibo",
             "zhihu",
             "github",
-            "juejin",
             ("smzdm", "什么值得买"),
             ("ithome", "it之家"),
         ]
