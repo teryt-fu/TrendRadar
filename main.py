@@ -2203,16 +2203,11 @@ class NewsAnalyzer:
         print(f"报告类型: {self.report_type}")
 
         ids = [
-            ("toutiao", "今日头条"),
             ("baidu", "百度热搜"),
-            ("wallstreetcn-hot", "华尔街见闻"),
-            ("thepaper", "澎湃新闻"),
             ("bilibili-hot-search", "bilibili 热搜"),
-            ("cls-hot", "财联社热门"),
             ("ifeng", "凤凰网"),
             "tieba",
             "weibo",
-            "douyin",
             "zhihu",
             "github",
             "juejin",
