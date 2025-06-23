@@ -1,34 +1,28 @@
 NAS
+
 小主机
+
 AIO
-all in one
++all in one
+
 docker
+
 虚拟机
+
 软路由
 
 DeepSeek
-梁文锋
 
 华为
-任正非
 鸿蒙
 HarmonyOS
 
 比亚迪
-王传福
 
 小米
 雷军
 !食品
 !粥
-
-黑神话
-冯骥
-
-哪吒
-饺子
-!车
-!餐
 
 京东
 刘强东
