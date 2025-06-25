@@ -2447,6 +2447,16 @@ class NewsAnalyzer:
             "juejin",
             "github",
             ("ithome", "it之家"),
+            "tieba",
+            "douyin",
+            ("toutiao", "今日头条"),
+            ("baidu", "百度热搜"),
+            ("bilibili-hot-search", "bilibili 热搜"),
+            "hackernews",
+            "hupu",
+            "nowcoder",
+            "sspai",
+            "smzdm",
         ]
 
         print(f"开始爬取数据，请求间隔 {self.request_interval} 毫秒")
