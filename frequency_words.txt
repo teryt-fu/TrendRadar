@@ -1,5 +1,13 @@
 NAS
 小主机
+!NASA
+
+飞牛
+FNOS
+
+极空间
+
+天钡
 
 AIO
 +all in one
@@ -17,17 +25,6 @@ docker
 NVIDIA
 
 AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-
-claude
-Anthropic
 
 iphone
 ipad
