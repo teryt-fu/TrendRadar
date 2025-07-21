@@ -13,6 +13,9 @@ mac
 ios
 
 NAS
+!NASA
+!美国航天局
+!SpaceX
 
 小主机
 
